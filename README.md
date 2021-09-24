@@ -1,3 +1,10 @@
+# This is a fork of the original repository mentioned below
+Some of the flles are modified, some are new, following list will keep track of that:
+- measure_cosine_distance.py
+- get_embeddings.py
+
+
+
 # Code for experiments conducted in the paper 'Leveraging Contextual Embeddings for Detecting Diachronic Semantic Shift' published in proceedings of LREC 2020 conference #
 
 Please cite the following paper [[bib](https://gitlab.com/matej.martinc/semantic_shift_detection/-/blob/master/bibtex.js)] if you use this code:
